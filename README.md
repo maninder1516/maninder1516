@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maninder1516
 - 👀 I’m interested in web development with Laravel, Symfony and Vue JS.
-- 🌱 I’m currently learning Symfony 4
+- 🌱 I’m currently learning Symfony 6
 - 💞️ I’m looking to collaborate on frontend frameworks.
 - 📫 You can reach me on maninder1516@gmail.com/+91 9779393981
 
